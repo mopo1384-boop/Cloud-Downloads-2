@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2163",
+  "folder": "YouTube__watch_20260515195908_09a4a6",
+  "base_name": "(_)_hcmi7M3a2TQ_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mopo1384-boop/Cloud-Downloads-2/releases/tag/co-releases-v1-2163",
+  "files": [
+    {
+      "name": "_._hcmi7M3a2TQ_360p.mp4",
+      "url": "https://github.com/mopo1384-boop/Cloud-Downloads-2/releases/download/co-releases-v1-2163/_._hcmi7M3a2TQ_360p.mp4",
+      "api_url": "https://api.github.com/repos/mopo1384-boop/Cloud-Downloads-2/releases/assets/421275718",
+      "id": 421275718,
+      "size": 86146568,
+      "download_count": 0
+    }
+  ]
+}
